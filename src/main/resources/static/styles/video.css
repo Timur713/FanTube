@@ -1,0 +1,42 @@
+.parent {
+    position: relative;
+    height: 250px;
+}
+
+.video_name {
+    color: #070717;
+    margin-left: 10px;
+    font-size: 200%;
+}
+
+.video_theme {
+    color:#43413f;
+    margin-left: 10px;
+}
+
+hr {
+    border: 1px solid #404a57;
+    width: 800px;
+    margin-left: 0px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.inline {
+    display: inline-block;
+    margin-left:10px;
+}
+
+.inline_big_margin_left {
+    display: inline-block;
+    position: relative;
+    margin-left: 180px;
+}
+.inline_margin {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.estimate_form {
+    width: 36px;
+}
